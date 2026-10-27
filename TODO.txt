@@ -1,0 +1,7 @@
+* DONE: JSON file, add literature references, remove prelevence
+* read JSON file and use it in code (like array values for plotly)
+* add literature reference to CIR-IF diagrams
+* examples of IFs
+* connected IFs, theories and literature
+    - which theories encompass multiple factors?
+* connect IFs with other taxonomies (ENISA Taxonomy of Threats, Risk Taxonomies, Mitre?, what else?)

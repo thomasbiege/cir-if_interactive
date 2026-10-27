@@ -1,0 +1,80 @@
+{
+  "taxonomy": "Cybersecurity Incident Response Influencing Factor (CIR-IF) Taxonomy",
+  "domains": [
+    {
+      "name": "Human Factors",
+      "categories": [
+        {
+          "name": "Knowledge",
+          "subcategories": [
+            {
+              "name": "Employees Knowledge, Soft & Hard Skills",
+              "prevalence": "32%",
+              "nist_mapping": ["RS.MA-02", "RS.MA-03", "RS.MI-01", "RS.MI-02"],
+              "description": "Hard skill cybersecurity knowledge, professional experience, and learning ability."
+            },
+            {
+              "name": "Cybersecurity Situation Awareness",
+              "prevalence": "23%",
+              "nist_mapping": ["GV.RM-05", "ID.AM-*", "ID.RA-01..05", "PR.PS-04", "DE.CM-*", "RS.AN-03"],
+              "description": "Perception, comprehension, and projection of risks and active adversary TTPs."
+            }
+          ]
+        },
+        {
+          "name": "Cognition, Personality Traits, and Behavior (CPTB)",
+          "subcategories": [
+            { "name": "Collaboration", "prevalence": "19%", "nist_mapping": ["RS.CO-02", "RS.CO-03"] },
+            { "name": "Decision-Making", "prevalence": "8%", "nist_mapping": [] },
+            { "name": "Stress Handling", "prevalence": "3%", "nist_mapping": [] },
+            { "name": "Confidence", "prevalence": "4%", "nist_mapping": [] },
+            { "name": "Intrinsic Motivation", "prevalence": "5%", "nist_mapping": [] },
+            { "name": "Sensemaking", "prevalence": "3%", "nist_mapping": [] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Context Factors",
+      "categories": [
+        {
+          "name": "Organization",
+          "subcategories": [
+            { "name": "Management: People, HR, Workload", "prevalence": "19%", "nist_mapping": ["GV.RR-03", "PR.IR-04"] },
+            { "name": "Company Culture & Business Model", "prevalence": "7%", "nist_mapping": ["GV.RM-02", "RS.CO-02"] },
+            { "name": "Structure, Size, Hierarchy", "prevalence": "9%", "nist_mapping": [] },
+            { "name": "Organizational Learning", "prevalence": "8%", "nist_mapping": ["GV.OV-*", "ID.IM-*"] }
+          ]
+        },
+        {
+          "name": "Technology",
+          "subcategories": [
+            { "name": "Tooling, Usability, Data, IT Infrastructure", "prevalence": "16%", "nist_mapping": ["PR.AA-*", "PR.DS-*", "DE.AE-*"] }
+          ]
+        },
+        {
+          "name": "Processes",
+          "subcategories": [
+            { "name": "Standard Operating Procedures, Playbooks, Policies", "prevalence": "16%", "nist_mapping": ["GV.PO-*", "ID.RA-*", "RS.MA-*"] }
+          ]
+        },
+        {
+          "name": "Economic",
+          "subcategories": [
+            { "name": "Budget, Revenue", "prevalence": "6%", "nist_mapping": [] },
+            { "name": "Business Impact", "prevalence": "2%", "nist_mapping": ["GV.OC-*", "GV.RM-*", "RS.MA-*"] },
+            { "name": "Industry Partner, Supply Chain", "prevalence": "4%", "nist_mapping": ["GV.SC-*"] }
+          ]
+        },
+        {
+          "name": "Attacker & Regulations",
+          "subcategories": [
+            { "name": "Capabilities, TTP & Motivation", "prevalence": "5%", "nist_mapping": [] },
+            { "name": "Laws and Official Regulations", "prevalence": "7%", "nist_mapping": ["GV.OC-03"] },
+            { "name": "Industry Norms, Standards, Frameworks", "prevalence": "4%", "nist_mapping": [] }
+          ]
+        }
+      ]
+    }
+  ]
+}

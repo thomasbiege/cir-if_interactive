@@ -1,0 +1,183 @@
+{
+  "taxonomy": "Cybersecurity Incident Response Influencing Factor (CIR-IF) Taxonomy",
+  "domain": "Human Factors",
+  "source_table": "Table 2: CIR Taxonomy of Influencing Human Factors",
+  "source_paper": {
+    "title": "SoK: A Taxonomy for Cybersecurity Incident Response Influence Factors",
+    "conference": "2026 11th IEEE European Symposium on Security and Privacy (EuroS&P)",
+    "doi": "https://doi.org/10.1109/EuroSP68448.2026.00068"
+  },
+  "categories": [
+    {
+      "category": "Knowledge",
+      "subcategories": [
+        {
+          "subcategory": "Employees Knowledge, Soft & Hard Skills",
+          "nist_sp_800_61r3_elements": [
+            "RS.MA-02",
+            "RS.MA-03",
+            "RS.MI-01",
+            "RS.MI-02"
+          ],
+          "scientific_research_links": [
+            "https://doi.org/10.24251/HICSS.2024.845",
+            "https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sundaramurthy",
+            "https://doi.org/10.1145/3491102.3517559",
+            "https://hammer.purdue.edu/articles/thesis/Identifying_Expertise_Gaps_in_Cyber_Incident_Response_Cyber_Defender_Needs_vs_Technological_Development/13351298",
+            "https://doi.org/10.1145/3319535.3354239",
+            "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-161043",
+            "https://idl.iscram.org/files/jeroengroenendaal/2021/2370_JeroenGroenendaal_etal2021.pdf",
+            "http://hdl.handle.net/11250/2387126",
+            "https://doi.org/10.1177/1071181319631244",
+            "https://doi.org/10.1007/978-3-319-58472-0_24",
+            "https://doi.org/10.1016/j.cose.2021.102401",
+            "https://doi.org/10.1016/j.cose.2020.101861",
+            "https://bora.uib.no/bora-xmlui/handle/1956/5093",
+            "https://repository.up.ac.za/handle/2263/45974",
+            "https://doi.org/10.1371/journal.pone.0260157",
+            "https://doi.org/10.1109/ETCM54341.2021.9631682",
+            "https://doi.org/10.1016/j.cose.2016.05.006",
+            "https://doi.org/10.1016/j.cose.2017.09.001",
+            "https://www.proquest.com/openview/a3ea6ebaa7c22933924fdd9d4aa7163c/1",
+            "https://doi.org/10.1109/ACCESS.2020.2976648",
+            "https://doi.org/10.1109/CyberSA.2016.7503284",
+            "https://doi.org/10.1007/978-3-319-70290-2_11",
+            "https://doi.org/10.1016/j.cose.2021.102357",
+            "https://doi.org/10.1109/CyberSecPODS.2019.8885193",
+            "https://doi.org/10.1080/19393555.2014.931913",
+            "https://doi.org/10.1109/EuroSPW54591.2021.00034",
+            "https://doi.org/10.1080/19393555.2021.1936636",
+            "https://doi.org/10.1145/947469.947493",
+            "https://doi.org/10.1007/978-3-319-07515-0_15"
+          ]
+        },
+        {
+          "subcategory": "Cybersecurity Situation Awareness",
+          "nist_sp_800_61r3_elements": [
+            "GV.RM-05",
+            "ID.AM-*",
+            "ID.RA-01",
+            "ID.RA-02",
+            "ID.RA-03",
+            "ID.RA-04",
+            "ID.RA-05",
+            "PR.PS-04",
+            "PR.AT-01",
+            "PR.AT-02",
+            "DE.CM-*",
+            "RS.AN-03",
+            "RS.CO-02",
+            "RS.CO-03"
+          ],
+          "scientific_research_links": [
+            "https://doi.org/10.24251/HICSS.2024.845",
+            "https://doi.org/10.1145/2663887.2663904",
+            "https://doi.org/10.1145/3319535.3354239",
+            "https://doi.org/10.1016/j.cose.2020.102122",
+            "https://scholar.dsu.edu/theses/351/",
+            "https://doi.org/10.1109/CyberSA.2018.8551480",
+            "https://doi.org/10.1177/1071181319631244",
+            "https://doi.org/10.4018/IJCWT.2015010105",
+            "https://doi.org/10.1016/j.cose.2021.102424",
+            "https://doi.org/10.1016/j.cose.2021.102401",
+            "https://repository.up.ac.za/handle/2263/45974",
+            "https://doi.org/10.1007/978-3-031-34936-2_16",
+            "https://doi.org/10.1007/978-3-030-99914-8_12",
+            "https://doi.org/10.1109/EuroSPW54591.2021.00035",
+            "https://doi.org/10.1080/19393555.2014.904558",
+            "https://doi.org/10.1145/3364998",
+            "https://doi.org/10.1145/3277593",
+            "https://riunet.upv.es/handle/10251/59432",
+            "https://doi.org/10.1016/j.cose.2022.103069",
+            "https://doi.org/10.1016/j.cose.2021.102398",
+            "https://iimk.ac.in/research/fellow-programme-in-management/graduated-students"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Cognition, Personality Traits, and Behavior (CPTB)",
+      "subcategories": [
+        {
+          "subcategory": "Intrinsic Motivation",
+          "nist_sp_800_61r3_elements": [],
+          "scientific_research_links": [
+            "https://doi.org/10.1145/2663887.2663904",
+            "https://doi.org/10.1145/3319535.3354239",
+            "https://doi.org/10.1007/978-3-030-01834-4_14",
+            "https://doi.org/10.1016/j.cose.2021.102401",
+            "https://repository.up.ac.za/handle/2263/45974"
+          ]
+        },
+        {
+          "subcategory": "Confidence",
+          "nist_sp_800_61r3_elements": [],
+          "scientific_research_links": [
+            "https://doi.org/10.1145/3637304",
+            "https://doi.org/10.24251/HICSS.2024.845",
+            "https://doi.org/10.1007/978-3-030-01834-4_14",
+            "https://doi.org/10.1016/j.cose.2021.102401"
+          ]
+        },
+        {
+          "subcategory": "Stress Handling",
+          "nist_sp_800_61r3_elements": [],
+          "scientific_research_links": [
+            "https://doi.org/10.1145/3637304",
+            "https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sundaramurthy",
+            "https://repository.up.ac.za/handle/2263/45974"
+          ]
+        },
+        {
+          "subcategory": "Sensemaking",
+          "nist_sp_800_61r3_elements": [],
+          "scientific_research_links": [
+            "https://repository.tudelft.nl/islandora/object/uuid%3A0c0cf92f-b258-45ad-bc0b-d249f3e49811",
+            "https://doi.org/10.24251/HICSS.2021.706",
+            "https://doi.org/10.1007/978-3-030-01834-4_14"
+          ]
+        },
+        {
+          "subcategory": "Decision-Making",
+          "nist_sp_800_61r3_elements": [],
+          "scientific_research_links": [
+            "https://idl.iscram.org/files/jeroengroenendaal/2021/2370_JeroenGroenendaal_etal2021.pdf",
+            "https://doi.org/10.1109/ICSMC.2004.1398416",
+            "https://doi.org/10.1007/978-3-319-58472-0_24",
+            "https://doi.org/10.1007/978-3-030-01834-4_14",
+            "https://doi.org/10.1016/j.cose.2021.102535",
+            "https://repository.up.ac.za/handle/2263/45974",
+            "https://doi.org/10.1007/978-3-319-70290-2_11",
+            "https://doi.org/10.1016/j.cose.2021.102398"
+          ]
+        },
+        {
+          "subcategory": "Collaboration",
+          "nist_sp_800_61r3_elements": [
+            "RS.CO-02",
+            "RS.CO-03"
+          ],
+          "scientific_research_links": [
+            "https://www.usenix.org/conference/soups2016/technical-sessions/presentation/sundaramurthy",
+            "https://cisse.info/journal/index.php/cisse/article/view/119",
+            "https://doi.org/10.3389/fpsyg.2018.01604",
+            "https://doi.org/10.1093/cybsec/tyy002",
+            "https://scholar.dsu.edu/theses/351/",
+            "https://doi.org/10.1109/CyberSA.2018.8551480",
+            "https://www.proquest.com/openview/a084bc9c72e29304918e9389b3ce57ff/1",
+            "https://doi.org/10.1177/1071181319631244",
+            "https://doi.org/10.17705/1CAIS.04712",
+            "https://doi.org/10.1007/978-3-319-58472-0_24",
+            "https://doi.org/10.1007/978-3-030-01834-4_14",
+            "https://doi.org/10.1016/j.cose.2020.101861",
+            "https://repository.up.ac.za/handle/2263/45974",
+            "https://doi.org/10.1371/journal.pone.0260157",
+            "https://doi.org/10.1109/ACCESS.2020.2976648",
+            "https://doi.org/10.1145/947469.947493",
+            "https://doi.org/10.1016/j.cose.2021.102398"
+          ]
+        }
+      ]
+    }
+  ]
+}
